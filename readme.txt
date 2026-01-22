@@ -84,7 +84,7 @@ This project helped me develop:
 - Solving real-world problems with code
 
 ## Future Improvements
-
+- [ ] Prevent overwrite 
 - [ ] Automatic folder creation
 - [ ] Watchdog integration for automatic organization on new downloads
 - [ ] Customizable category configuration via config file
@@ -116,4 +116,5 @@ Suggestions and improvements are welcome! Feel free to open an issue or pull req
 ---
 
 If you found this project helpful, consider giving it a star!
+
 
